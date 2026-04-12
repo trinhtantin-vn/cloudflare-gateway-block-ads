@@ -26,7 +26,7 @@ function silent_error() {
 curl -sSfL --retry "$MAX_RETRIES" --retry-all-errors https://small.oisd.nl/domainswild2 | grep -vE '^\s*(#|$)' > oisd_small_domainswild2.txt || silent_error "Failed to download the domains list"
 
 # Check if the file has changed
-git diff --exit-code oisd_small_domainswild2.txt > /dev/null && silent_error "The domains list has not changed"
+#git diff --exit-code oisd_small_domainswild2.txt > /dev/null && silent_error "The domains list has not changed"
 
 # Ensure the file is not empty
 [[ -s oisd_small_domainswild2.txt ]] || error "The domains list is empty"
