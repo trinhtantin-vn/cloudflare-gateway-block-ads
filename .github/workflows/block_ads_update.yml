@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - '**'
+  workflow_dispatch: # Thêm dòng này để kích hoạt nút Run bằng tay
 
 jobs:
   block_ads_update:
