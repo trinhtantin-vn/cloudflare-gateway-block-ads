@@ -2,11 +2,12 @@ name: Block ads update
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *' # Chạy vào 00:00 mỗi ngày
   push:
     branches:
-      - '**'
-  workflow_dispatch: # Thêm dòng này để kích hoạt nút Run bằng tay
+      - main
+      - master
+  workflow_dispatch:
 
 jobs:
   block_ads_update:
@@ -15,16 +16,20 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install jq, curl and other utilities
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq curl coreutils
+      - name: Install utilities
+        run: sudo apt-get install -y jq curl
 
-      - name: Run the script
+      - name: Run sync script
         env:
           API_TOKEN: ${{ secrets.API_TOKEN }}
           ACCOUNT_ID: ${{ secrets.ACCOUNT_ID }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           chmod +x block_ads.sh
           ./block_ads.sh
+
+      - name: Silent Git Commit
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add domain_list.txt || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update domains list" && git push origin HEAD) || true
