@@ -6485,6 +6485,7 @@ dp.specificclick.net
 dp1.33across.com
 dp2.33across.com
 dp2.specificclick.net
+dpjf9a2rbjbvp.cloudfront.net
 dpm.demdex.net
 dpmsrv.com
 dpuplet.net
@@ -6596,6 +6597,7 @@ dvr.impactify.media
 dx.alcmpn.com
 dx.steelhousemedia.com
 dxgo95ahe73e8.cloudfront.net
+dxtnqglxrio.com
 dyn-objects.mathtag.com
 dyn.omnitagjs.com
 dynamic-ads.appier.net
@@ -9320,6 +9322,7 @@ log-baolaocai.epicdn.me
 log-baonghean.zadn.vn
 log-baophapluat.zadn.vn
 log-bizlive.zadn.vn
+log-boot.capcutapi.com
 log-collector.shopee.vn
 log-config.samsungacr.com
 log-dttc-sggp.epicdn.me
@@ -9360,6 +9363,7 @@ log-upload-os.hoyolab.com
 log-upload-os.hoyoverse.com
 log-upload-os.mihoyo.com
 log-upload.mihoyo.com
+log-v2-boot.capcutapi.com
 log-verify.mob.com
 log-video.baotintuc.vn
 log-vietnamdaily.zadn.vn
@@ -9498,11 +9502,15 @@ log.zingnews.vn
 log.znews.vn
 log1.adsplay.net
 log1.cmpassport.com
+log16-normal-sg.capcutapi.com
 log16-normal-us-ttp.capcutapi.us
+log16-normal.capcutapi.com
 log2.adsplay.net
 log2.cmpassport.com
 log2.spotify.com
 log3.adsplay.net
+log32-normal-sg.capcutapi.com
+log32-normal.capcutapi.com
 log4.adsplay.net
 log4x.nixcdn.com
 loga2.doubleverify.com
@@ -9867,8 +9875,10 @@ mcpuwpush.com
 mcs-ie.tiktokw.eu
 mcs-ie2.tiktokw.eu
 mcs-sg.tiktok.com
+mcs-v2-boot.capcutapi.com
 mcs-va.capcutapi.com
 mcs-va.tiktokv.com
+mcs.capcutapi.us
 mcs.snssdk.com
 mcs.tiktokv.us
 mcs.tiktokw.us
@@ -9988,13 +9998,3 @@ mediaz.angloinfo.com
 mediaz.asia
 mediaz.genieesspv.jp
 mediaz.vn
-mediazcorp.com
-medio.com
-medleyads.com
-medtargetsystem.com
-medusa-api.cbsileads.com
-medusaecaptan.com
-medyanetads.com
-meepo.meitustat.com
-meet.exponential.com
-mega1app.yeah1publishing.com
