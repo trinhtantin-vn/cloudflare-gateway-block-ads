@@ -1759,6 +1759,7 @@ adsrvr.org
 adsservice-external.v.fwmrm.net
 adssettings.365scores.com
 adst.djaxadserver.com
+adstag0102.xyz
 adstage-analytics.herokuapp.com
 adstage.io
 adstartmedia.g2afse.com
@@ -3331,6 +3332,7 @@ asia.creativecdn.com
 asia.marketo.com
 asiacpx.com
 asianmedia.com
+asifhclod.com
 askfm.adspirit.de
 askfm.pushwoosh.com
 askingpoint.com
@@ -3554,6 +3556,7 @@ azjpixel.adsafeprotected.com
 azkcqs.com
 azoaltou.com
 azrwwodreta.com
+azzadgasf.in
 b-1st.com
 b-api.omnitagjs.com
 b.adexchangemachine.com
@@ -4378,6 +4381,7 @@ careers.hotjar.com
 careers.outbrain.com
 caribedkurukh.com
 carpet.pulse.inmobi.com
+carveddoublebogeyhigh.com
 carvyre.com
 cas.criteo.com
 casale-match.dotomi.com
@@ -8943,6 +8947,7 @@ jssdk.rayjump.com
 jssdkcdns.mparticle.com
 jssdks.mparticle.com
 jsu.adskeeper.co.uk
+jsudwyjduktw.com
 jsv2.andbeyond.media
 jsv2scr.andbeyond.media
 jtracking.lulusoft.com
@@ -9993,8 +9998,3 @@ mediaplex.com
 mediarithmics.com
 mediascale.de
 mediashakers.com
-mediasmart.io
-mediatext.com
-mediation-sg.pangle.io
-mediation-tracking.prd.mz.internal.unity3d.com
-mediation.adflex.vn
