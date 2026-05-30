@@ -132,6 +132,8 @@
 79xmz3lmss.com
 7ca78m3csgbrid7ge.com
 864feb57ruary.com
+940functions.net
+970vantage.net
 999.money
 9gg23.com
 a-ads.com
@@ -2657,6 +2659,7 @@ analytics.vietnamfinance.vn
 analytics.vnncdn.net
 analytics.vnpt.vn
 analytics.vnreview.vn
+analytics.wavelz.com
 analytics.webgains.io
 analytics.webpushr.com
 analytics.wondershare.cc
@@ -3972,6 +3975,7 @@ bjdxhs.com
 bjhmt.com
 bk.r-ad.ne.jp
 bkrtx.com
+bl-bm.smadex.com
 blackbrake.com
 blahlivedsnowdrop.com
 blank.juicer.cc
@@ -4012,6 +4016,8 @@ bluewhaleweb.com
 blurbreimbursetrombone.com
 blushingbeast.com
 blutrumpet.com
+bm-ec1.smadex.com
+bm-use1.smadex.com
 bm.annonce.cz
 bm.moatads.com
 bmmads.com
@@ -4073,6 +4079,7 @@ bpath.com
 bpipihwhumif.com
 bqstreamer.com
 bquildna43.site
+br-trk.smadex.com
 br.x.cnt.my
 br2.x.cnt.my
 br4.cnt.my
@@ -4202,6 +4209,7 @@ bvalphaserver.com
 bvmcdn.net
 bvoffers-elb.go2cloud.org
 bvtpk.com
+bw-trk.smadex.com
 bwlkup.alphonso.tv
 bwp.download.com
 bwstatistics.sapoapps.vn
@@ -5317,6 +5325,7 @@ cm.rdr.creativecdn.com
 cm.send.microad.jp
 cm.send.microadinc.com
 cm.shareaholic.com
+cm.smadex.com
 cm.steepto.com
 cm.tns-counter.ru
 cm2.adform.net
@@ -5537,6 +5546,7 @@ content.lemonpi.io
 content.mediaforge.com
 content.mql5.com
 content.postrelease.com
+content.smadex.com
 content.swrve.com
 content.tapjoy.com
 contentabc.com
@@ -5672,6 +5682,7 @@ cpxy.a-mo.net
 cqcounter.com
 cquotient.com
 cr-eec.etp-prod.com
+cr-err.smadex.com
 cr-mon.appier.net
 cr-p22000.ladsp.jp
 cr-p3.ladsp.jp
@@ -5737,6 +5748,7 @@ creatives.livejasmin.com
 creatives.purpleads.io
 creatives.smaato.com
 creatives.smaato.net
+creatives.smadex.com
 creativesumo.com
 creatopy-adtag-production.b-cdn.net
 creepingseverely.com
@@ -6611,6 +6623,7 @@ dup.baidustatic.com
 durationmedia.net
 dustyhammer.com
 duuzseb2b7-jp.cheqzone.com
+duvnihavrob.in
 dv.adnow.cc
 dvr.impactify.media
 dx.alcmpn.com
@@ -6738,6 +6751,7 @@ edge01.chartbeat.net
 edgecdn.bizible.com
 edgeio.com
 editorial.outbrain.com
+ee-trk.smadex.com
 eehuzaih.com
 ef-dongfeng.tanx.com
 ef.alcmpn.com
@@ -7513,6 +7527,7 @@ geo-balanced-collect.deltadna.net
 geo-eu.snigelweb.com
 geo-service.aicactus.io
 geo-storage.amxrtb.com
+geo-tracker.smadex.com
 geo-us.snigelweb.com
 geo-weather.adsafety.net
 geo.adobe.com
@@ -9983,18 +9998,3 @@ media.proadscdn.com
 media.taplytics.com
 media.trafficfactory.biz
 media.trafficjunky.net
-media.vivaclix.com
-media.vlitag.com
-media.yomedia.vn
-media01.eu
-media1.admicro.vn
-media6degrees.com
-mediaarea.eu
-mediaarmor.com
-mediabridge.cc
-mediabrix.com
-mediacategory.com
-mediacharger.com
-mediaforce.com
-mediaforge.com
-mediafuse.com
