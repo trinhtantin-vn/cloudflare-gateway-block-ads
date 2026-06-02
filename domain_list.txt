@@ -34,6 +34,7 @@
 1x1.myfastcdn.com
 2-05.com
 2.afs.googleadservices.com
+2021group.com
 207.net
 22hgc.com
 240.zaloapp.ads.zdn.vn
@@ -2099,6 +2100,7 @@ ae.brand-display.com
 ae.pubmatic.com
 aeffe3nhrua5hua.com
 aegis.qq.com
+aelwynvel.com
 aem-collector-22ylcwym.kgslb.com
 aem-collector.daumkakao.io
 aepxlg.adobe.com
@@ -3429,6 +3431,7 @@ async01.admantx.com
 at-adserver.alltop.com
 at.adtech.redventures.io
 at.atwola.com
+at.deviletcolog.com
 at.umeng.com
 atableofcup.com
 atb.im-apps.net
@@ -5519,6 +5522,7 @@ connectad.io
 connectedby.connectad.io
 connection1safety.com
 connextra.com
+conopidlanai.qpon
 consent-dev.mediaforge.com
 consent-manager-events.ogury.io
 consent.ivitrack.com
@@ -5605,6 +5609,7 @@ core.vnecdn.com
 core.yads.tech
 coremetrics.com
 corenlp.admicro.vn
+cornrowbygone.shop
 corp-assets.triplelift.com
 corp.leanplum.com
 corp.specificmedia.com
@@ -6105,6 +6110,7 @@ datafront.co
 datahub.serving-sys.com
 dataserver.adhigh.net
 datatechonert.com
+datatoreplicas.com
 datawrkz.com
 dataxu.com
 datemefast.com
@@ -6424,6 +6430,7 @@ dlx.specificclick.net
 dm-event.net
 dm.aralego.com
 dm.djaxadserver.com
+dm.earnascape.com
 dm.gg
 dm.toutiao.com
 dmads.dailymotion.com
@@ -6779,6 +6786,7 @@ ehealthcaresolutions.com
 ei.imstks.com
 ei.rlcdn.com
 ej.tincheldeluce.com
+ejnhhchykjfyyle.com
 ejs.moatads.com
 el.zucks.net
 elasticchange.com
@@ -7863,6 +7871,7 @@ guoshipartners.com
 guppymedia.com
 gurgle.zdbb.net
 gusabid.adview.com
+gv.habitanchowses.cyou
 gv1.xdrig.com
 gw-iad-bid.ymmobi.com
 gw.flurry.com
@@ -9989,12 +9998,3 @@ media.go2speed.org
 media.innity.net
 media.m.ambientplatform.vn
 media.maxvaluead.com
-media.mobileapptracking.com
-media.mydas.mobi
-media.net
-media.org.adtimaserver.vn
-media.pgmcdn.com
-media.proadscdn.com
-media.taplytics.com
-media.trafficfactory.biz
-media.trafficjunky.net
