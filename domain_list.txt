@@ -4164,6 +4164,7 @@ bsxzc.ttrk.io
 bt.cheqzone.com
 bt.teparytympan.qpon
 btds.zog.link
+btguqecoelukltw.com
 btloader.com
 btlr-ecs-ap-southeast-1.sharethrough.com
 btlr-ecs-us-west-1.sharethrough.com
@@ -5111,6 +5112,7 @@ claria.com
 clarity.ms
 clarium.global.ssl.fastly.net
 claroads.com
+claroly75.com
 classic.marketolive.com
 clc.stackoverflow.com
 clck.adskeeper.com
@@ -9996,5 +9998,3 @@ media.evolv.ai
 media.globalsign.com
 media.go2speed.org
 media.innity.net
-media.m.ambientplatform.vn
-media.maxvaluead.com
