@@ -1102,6 +1102,7 @@ ads.admatrix.vn
 ads.administrator.de
 ads.adpone.com
 ads.adservme.com
+ads.adsterra.com
 ads.adstream.com.ro
 ads.adtarget.me
 ads.adthrive.com
@@ -1772,6 +1773,7 @@ adstatic.b-cdn.net
 adstats.fastadsonline.com
 adsterra.com
 adsterra.org
+adsterra.rocks
 adstmanger.djaxadserver.com
 adstracking.apps.zing.vn
 adstract.adk2x.com
@@ -2471,6 +2473,7 @@ amung.us
 amxrtb.com
 amz-ad.a8.net
 amz.o-s.io
+an.adsterra.com
 an.avast.com
 an.batmobi.net
 an.districtm.ca
@@ -3355,6 +3358,7 @@ asset.bidgear.com
 asset.pubexchange.com
 assets-east.smrtb.com
 assets-main.trafficfactory.biz
+assets-tracking.crazyegg.com
 assets-v3.chartboost.com
 assets.a-mo.net
 assets.ad4m.at
@@ -3538,6 +3542,7 @@ awempire.com
 aweprt.com
 awhilediplomagloss.com
 awin1.com
+awjojjrimaf.in
 awmdelivery.com
 aws-ac.o-s.io
 aws-api.sail-personalize.com
@@ -5068,6 +5073,7 @@ chl7rysobc3ol6xla.com
 choconart.com
 choupsee.com
 chris-gcp.logrocket.io
+chubbyexemplaryhardiness.com
 chyjobopse.pro
 chytridaustral.com
 ci.adsafeprotected.com
@@ -6548,6 +6554,7 @@ ds-ui-mockups.dev.gumgum.com
 ds-vn.serving-sys.com
 ds.ad.gt
 ds.contextweb.com
+ds.eclick.vn
 ds.gumgum.com
 ds.polyad.net
 ds.serving-sys.com
@@ -6745,6 +6752,7 @@ edaa.sharethis.com
 edayo.boost-next.co.jp
 edba.brealtime.com
 edg.appier.xyz
+edge-hls.saawsedge.com
 edge-west.customer.io
 edge.ad1x.com
 edge.addthis.com
@@ -7692,6 +7700,7 @@ go.aniview.com.edgekey.net
 go.appnexus.com
 go.automatad.com
 go.bebi.com
+go.bigbang.solutions
 go.blcdog.com
 go.branch.io
 go.conversantmedia.com
@@ -9989,12 +9998,3 @@ media.bidr.io
 media.bilsyndication.com
 media.company-target.com
 media.content.ad
-media.contextweb.com
-media.daly2024.com
-media.doublepimp.com
-media.dsp-prod.demandbase.com
-media.ethicalads.io
-media.evolv.ai
-media.globalsign.com
-media.go2speed.org
-media.innity.net
