@@ -3296,6 +3296,7 @@ ariane.abtasty.com
 arm.c.appier.net
 aromamirror.com
 arrogancedanderuntruth.com
+arrtakhihfze.in
 arsdev.net
 arsnivyr.com
 arswabluchan.com
@@ -6464,6 +6465,7 @@ dm.gg
 dm.toutiao.com
 dmads.dailymotion.com
 dmc1acwvwny3.cloudfront.net
+dmdxzdhu.com
 dmg.digitaltarget.ru
 dmp-log.yomedia.vn
 dmp.ad4mat.net
@@ -7427,6 +7429,7 @@ fs-client-logger.herokuapp.com
 fs.moatads.com
 fs.specificmedia.com
 fslt.wpm.neustar.biz
+fsxmidyo.com
 ftd.agency
 ftp.exponential.com
 ftte.xyz
@@ -9995,6 +9998,3 @@ meaese.click
 meandiminutionhit.com
 measure.admiralmarkets.com
 measure.analysis.fi
-measure.ensighten.com
-measure.pti.com.vn
-measure.vndirect.com.vn
