@@ -4362,6 +4362,7 @@ cache.send.microad.jp
 cache.send.microadinc.com
 cache.specificmedia.com
 cache.sxp.smartclip.net
+cachegorilla.com
 cachegorilla.xml.ak-is2.net
 caclick.baidu.com
 cactusheadroomscaling.com
@@ -6956,6 +6957,7 @@ etargetnet.com
 ether-pack-sg.pangle.io
 ethicalads.io
 ethicel.com
+etivbuvltde.com
 etp-prod.com
 etracker.de
 ets-ap-southeast-1.track.smaato.net
@@ -7922,6 +7924,7 @@ gwsfo.smaato.net
 gx-target-experiments-frontend-api.gx.nvidia.com
 gxb.mmstat.com
 gy.anaheimnonfat.com
+gylxwpwabgp.com
 gzaqwebtipm.com
 gzip-smartplugin.youbora.com
 gzjkbid.adview.com
@@ -8096,6 +8099,7 @@ hitslink.com
 hittail.com
 hitwebcounter.com
 hixwwert.in
+hj.combusteschel.shop
 hk-cdn.youngle.tech
 hk-match.taboola.com
 hk-pvmax.tenmax.io
@@ -9994,7 +9998,3 @@ mdsp.avazutracking.net
 mdstats.info
 mdt-www.marketo.com
 me.cpatrk.net
-me.xdrig.com
-me.zedcdn.me
-meaese.click
-meandiminutionhit.com
