@@ -1888,6 +1888,7 @@ adv.baotayninh.vn
 adv.baotintuc.vn
 adv.baovemoitruong.org.vn
 adv.cityads.com
+adv.clickadu.net
 adv.freeonline.it
 adv.ftd.agency
 adv.hwupgrade.it
@@ -1904,6 +1905,9 @@ adv.webmd.com
 adv.wp.pl
 adv.yllix.com
 adv.yo.cz
+adv1.clickadu.net
+adv2.clickadu.net
+adv3.clickadu.net
 advanced-web-analytics.com
 advangelists.com
 advantagesclotblend.com
@@ -2460,6 +2464,7 @@ amplify.adspeed.net
 amplify.outbrain.com
 amplifypixel.outbrain.com
 ampm.outbrain.com
+ampmhcbehnapwt.com
 amprtc.media.net
 amrytt.adk2x.com
 ams-1-apex.go.sonobi.com
@@ -5225,6 +5230,7 @@ click2.yllix.com
 click2freemoney.com
 clickadilla.com
 clickadu.com
+clickadu.net
 clickadz.com
 clickagents.com
 clickagy.com
@@ -6149,8 +6155,10 @@ datk.anythinktech.com
 datk.bridgeoos.com
 datk.toponadss.com
 dau.fyber.com
+db.peshitomohr.qpon
 db3aqu.atdmt.com
 db7q4jg5rkhk8.cloudfront.net
+dbancamd.com
 dbaord-frontend.dev.yieldlove.com
 dbmaster.aatkit.com
 dbr9gtaf8.com
@@ -9990,11 +9998,3 @@ mcs.snssdk.com
 mcs.tiktokv.us
 mcs.tiktokw.us
 mcs.zijieapi.com
-mcs16-normal-us-ttp.capcutapi.us
-mct.rkdms.com
-mda.zadn.vn
-mdc.meitustat.com
-mdsp.avazutracking.net
-mdstats.info
-mdt-www.marketo.com
-me.cpatrk.net
