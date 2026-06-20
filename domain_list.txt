@@ -103,6 +103,7 @@
 3x2.myfastcdn.com
 4.adsco.re
 4.afs.googleadservices.com
+44ye.com
 480.zaloapp.ads.zdn.vn
 4cinsights.com
 4dex.io
@@ -2117,6 +2118,7 @@ aelwynvel.com
 aem-collector-22ylcwym.kgslb.com
 aem-collector.daumkakao.io
 aepxlg.adobe.com
+aerithvel.com
 aerodynomach.com
 aerserv.com
 aes.eu-west.ono.axp.amazon-adsystem.com
@@ -3755,6 +3757,7 @@ bap.lijit.com
 bapi.adsafeprotected.com
 bapi.userreport.com
 bappaads.xml.ak-is2.net
+barapolaran.shop
 baresi.xyz
 barometercorrodingunease.com
 base-cdn.admarvel.com
@@ -4000,6 +4003,7 @@ bjdata.ads.oppomobile.com
 bjdxhs.com
 bjhmt.com
 bk.r-ad.ne.jp
+bk8sports.com
 bkrtx.com
 bl-bm.smadex.com
 blackbrake.com
@@ -5395,6 +5399,7 @@ cn.adxxx.com
 cn846.com
 cname-cdn.youngle.tech
 cnative.propellerclick.com
+cnawrtrimk.com
 cnn.bounceexchange.com
 cnnx.io
 cnomy.com
@@ -5654,6 +5659,7 @@ corpvpn.specificmedia.com
 correctdilutetrophy.com
 correlationcocktailinevitably.com
 cors-studio.inmobicdn.net
+corypha.veluredcorveenikko.cfd
 cosmos.marfeel.com
 cotads.adscale.de
 count-server.sharethis.com
@@ -5920,6 +5926,7 @@ cxi-api-staging.wootric.com
 cxi-api.wootric.com
 cyberbounty.com
 cz.gmads.mookie1.com
+czgxwtlqklaju.site
 czilladx.com
 czx5eyk0exbhwp43ya.biz
 d-cache.microadinc.com
@@ -7445,6 +7452,7 @@ fs.moatads.com
 fs.specificmedia.com
 fslt.wpm.neustar.biz
 fsxmidyo.com
+ft.budtawney.com
 ftd.agency
 ftp.exponential.com
 ftte.xyz
@@ -7907,6 +7915,7 @@ gtmjs.com
 gtop.ro
 gtop100.com
 gtsmobi.com
+gtuzanksz.com
 guardedschool.com
 guardianapps.co.uk
 guc-api.sonic-us.supersonicads.com
@@ -8382,6 +8391,7 @@ ilovecheating.com
 ilyf4amifh.com
 ilyonanalytics.herokuapp.com
 im-apps.net
+im.bailbezetta.cfd
 im.bluevoox.com
 im.jpush.cn
 im.platform.duapps.com
@@ -8606,6 +8616,7 @@ infamousfine.com
 infeed-adroute.focas.jp
 infinite-ads.com
 infiniti.cityads.com
+infinity13.com
 infinityads.com
 infinityid.condenastdigital.com
 influencedsuited.com
@@ -8874,6 +8885,7 @@ j93557g.com
 ja.ad-stir.com
 ja2n2u30a6rgyd.com
 jaavnacsdw.com
+jabobdfufaqt.in
 jac.yahoosandbox.com
 jackadamo.com
 jact.atdmt.com
@@ -8885,6 +8897,7 @@ jaeger.vungle.com
 jailbulb.com
 jailorscoman.cfd
 jaiporukodaisa.com
+jaixajhu.com
 jampp.com
 jana1.jeoway.net
 janitorprecisiontrio.com
@@ -9985,16 +9998,3 @@ mcdn.batmobi.net
 mcdn.navdmp.com
 mcdp.outbrain.com
 mcleaks.net
-mclick.mobi
-mclick.xapads.com
-mcm.justbaat.org
-mcppsh.com
-mcpuwpsh.com
-mcpuwpush.com
-mcs-ie.tiktokw.eu
-mcs-ie2.tiktokw.eu
-mcs-sg.tiktok.com
-mcs-v2-boot.capcutapi.com
-mcs-va.capcutapi.com
-mcs-va.tiktokv.com
-mcs.capcutapi.us
