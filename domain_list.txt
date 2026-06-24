@@ -2426,6 +2426,7 @@ am-vid-events.taboola.com
 am-wf.taboola.com
 am.adlooxtracking.com
 am.alcmpn.com
+am.diecasepachas.cyou
 am15.net
 amare.agency
 amazingcounters.com
@@ -9997,4 +9998,3 @@ mbid.marfeelrev.com
 mblapi.ssl2.duapps.com
 mbs.megaroticlive.com
 mc.webvisor.com
-mc.webvisor.org
