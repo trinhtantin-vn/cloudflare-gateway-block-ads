@@ -101,6 +101,7 @@
 3p-udc.yahoo.com
 3pkf5m0gd.com
 3x2.myfastcdn.com
+3xyy.com
 4.adsco.re
 4.afs.googleadservices.com
 44ye.com
@@ -3308,6 +3309,7 @@ ariane.abtasty.com
 arm.c.appier.net
 aromamirror.com
 arrogancedanderuntruth.com
+arrogancelullabyjan.com
 arrtakhihfze.in
 arsdev.net
 arsnivyr.com
@@ -4072,6 +4074,7 @@ boilingbeetle.com
 bojel.com
 boldchat.com
 bollywoodmenswear.com
+bolsterate.net
 bondeddarkenedswerve.com
 bondleapedoasis.com
 bonepa.com
@@ -5187,6 +5190,7 @@ click-dsp-nym2.adkernel.com
 click-dsp-uswest.adkernel.com
 click-dsp.adkernel.com
 click-east.acuityplatform.com
+click-eu-v4.junclikrmedi.com
 click-eu-v4.mainexclkdir.com
 click-eu.expmediadirect1.com
 click-eu.pclk.name
@@ -5194,6 +5198,7 @@ click-euro.acuityplatform.com
 click-haproxy.supersonicads.com
 click-mdsp.avazutracking.net
 click-v4.jadspro.live
+click-v4.junclikrmedi.com
 click-v4.mainexclkdir.com
 click-west.acuityplatform.com
 click.a-ads.com
@@ -5216,6 +5221,7 @@ click.goraps.com
 click.hm.baidu.com
 click.hooligapps.com
 click.howdoesin.net
+click.junclikrmedi.com
 click.justpremium.com
 click.kau.li
 click.kmindex.ru
@@ -6822,6 +6828,7 @@ edgeio.com
 editorial.outbrain.com
 ee-trk.smadex.com
 eehuzaih.com
+eelfpsgnicy.com
 ef-dongfeng.tanx.com
 ef.alcmpn.com
 effacedefend.com
@@ -8045,6 +8052,7 @@ hccxwfunnpxngz.com
 hd.logging.admicro.vn
 hd.mmstat.com
 hdatssfpxrwbxs.com
+hdlyfrxtnjpbc.site
 hdmtools.com
 he.lijit.com
 header.mathtag.com
@@ -8843,6 +8851,7 @@ ironsource.mobi
 irqs.ioam.de
 is-gateway.supersonicads.com
 is.accesstrade.net
+is.ptinusmufasal.com
 is.yllix.com
 isboost.genieesspv.jp
 isgame.ds.duapps.com
@@ -9077,6 +9086,7 @@ juicer.cc
 juicyads.com
 julysystems.com
 jumptap.com
+junclikrmedi.com
 junmediadirect1.com
 justicejudo.com
 justpremium.com
@@ -9988,13 +9998,3 @@ maxvaluead.com
 maxymiser.com
 maxymiser.net
 mazu.sec.miui.com
-mb.logging.admicro.vn
-mb.moatads.com
-mb.taboola.com
-mb9eo.publishers.tremorhub.com
-mbddip.com
-mbe-cdn.fyber.com
-mbid.marfeelrev.com
-mblapi.ssl2.duapps.com
-mbs.megaroticlive.com
-mc.webvisor.com
