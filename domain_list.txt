@@ -4617,7 +4617,6 @@ cdn.adtrue.com
 cdn.advertserve.com
 cdn.advgalaxy.com
 cdn.adx1.com
-cdn.adxcontent.com
 cdn.afp.ai
 cdn.aicactus.io
 cdn.aimg.media.net
@@ -6796,6 +6795,7 @@ ebxcdn.com
 ec-optimizer.com
 ec-uat.instapagemetrics.com
 ec.atdmt.com
+ec.ballyaxche.cfd
 ec.cdne.cpmstar.com
 ec.doublemax.net
 ec.instapagemetrics.com
@@ -7495,6 +7495,7 @@ fusionquest.com
 futcceabr.com
 futurehybrid.tech
 fvalid.appsflyer.com
+fvmfdzpwbm.com
 fw.adsafeprotected.com
 fw.bapi.adsafeprotected.com
 fw.moatads.com
@@ -8403,6 +8404,7 @@ ifsk2.tanx.com
 ignaik.tenmax.io
 ignite.adtima.vn
 ih.adscale.de
+ih.charvetseedful.shop
 ih.serosaetoher.shop
 ihhqwaurke.com
 iifvcfwiqi.com
@@ -9004,6 +9006,7 @@ jpush.cn
 jpush.io
 jpwrashuzfstxc.com
 jqvhnbxtwze.com
+jqyryzrbuqpfp.space
 jr.ads.zalo.me
 jr.ads.zaloapp.com
 jr.stg.ads.zalo.me
@@ -9200,6 +9203,7 @@ krjxhvyyzp.com
 krk.kargo.com
 krxd.net
 ksvjmvrjjo.com
+kt.cowtownpeppy.com
 ktkjmp.com
 kts.vasstycom.com
 kts.visitstats.com
@@ -9351,6 +9355,7 @@ lf-static.tiktokpangle-cdn-us.com
 lfalfehuq.com
 lfeeder.com
 lfeorrzkua.com
+lfezjmxldv.com
 lfstmedia.com
 lfvvhemghapw.com
 lg.doublemax.net
@@ -9993,8 +9998,3 @@ mautic.chetaomaysaigon.vn
 mautic.cloudify.vn
 mautic.easygroup.vn
 mautic.educa.vn
-mautic.educe.vn
-mautic.haproinfo.vn
-mautic.hicity.vn
-mautic.hubs.vn
-mautic.icsc.vn
