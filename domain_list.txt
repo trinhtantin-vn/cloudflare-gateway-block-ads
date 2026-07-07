@@ -3788,6 +3788,7 @@ bapi.adsafeprotected.com
 bapi.userreport.com
 bappaads.xml.ak-is2.net
 barapolaran.shop
+bareleggedhelmhim.com
 baresi.xyz
 barometercorrodingunease.com
 base-cdn.admarvel.com
@@ -7743,6 +7744,7 @@ git.blueseed.tv
 git.younetmedia.com
 gitlab.ad-stir.com
 gitlab.connatix.com
+giuwikxlkna.com
 gizmo-s.serving-sys.com
 gizmo.serving-sys.com
 gj.mmstat.com
@@ -8989,6 +8991,7 @@ jarvispopsu.com
 jatxt.com
 jcdn.ad-stir.com
 jcount.com
+jdxkcews.com
 jeeng.com
 jenicdntc.com
 jenkins-staging.leanplum.com
@@ -9995,6 +9998,3 @@ marketo.net
 marketolive.com
 marketplace.trafficjunky.net
 marketron.com
-markreptiloid.com
-marphezis.com
-marriedvalue.com
