@@ -1501,6 +1501,7 @@ ads.tripod.com
 ads.truecaller.com
 ads.tso.dennisnet.co.uk
 ads.tvb.com
+ads.tvpl.vn
 ads.twitter.com
 ads.uc.cn
 ads.ultimate-guitar.com
@@ -3859,6 +3860,7 @@ beacon.aimtell.com
 beacon.cdnma.com
 beacon.deepintent.com
 beacon.errorception.com
+beacon.fusioncdn.com
 beacon.gu-web.net
 beacon.krxd.net
 beacon.lijit.com
@@ -3901,6 +3903,7 @@ beestark.com
 beeswax.tapjoy.com
 beetlecrossshoulder.com
 befirstcdn.com
+befjajh.trackhup.com
 begun.ru
 behavioralengine.com
 beixisys.com
@@ -3956,6 +3959,7 @@ bharalhallahs.com
 bhcumsc.com
 bi.vhost.vn
 bi.yeshen.com
+bicolourprepossessstrong.com
 bid-apac.onetag-sys.com
 bid-eu.onetag-sys.com
 bid-g.onetag-sys.com
@@ -4950,6 +4954,7 @@ cdn.urlhausa.com
 cdn.usefathom.com
 cdn.userreport.com
 cdn.viadata.store
+cdn.vidcrunch.com
 cdn.vidverto.io
 cdn.viewdeos.com
 cdn.viglink.com
@@ -6456,6 +6461,7 @@ dfw.distinctrobin.com
 dg.brand-display.com
 dg.specificclick.net
 dga.specificclick.net
+dghecae.trackhup.com
 dgx.specificclick.net
 dgz.specificclick.net
 dh.serving-sys.com
@@ -8165,6 +8171,7 @@ heywire.com
 heyzap.com
 hfc195b.com
 hgads.com
+hh788.com
 hhbypdoecp.com
 hi-cdn.adsparc.net
 hi.districtm.ca
@@ -9991,10 +9998,3 @@ mandateowl.com
 manpowerspiritualunrented.com
 mantis.autoads.asia
 map.admarvel.com
-map.mediaforge.com
-mapbasin.com
-maps.amung.us
-marasgumpus.com
-marazma.com
-marchex.com
-marchex.io
