@@ -2152,6 +2152,7 @@ aff-advertiser.i-mobile.co.jp
 aff-online.com
 aff-track.net
 aff.adflex.vn
+aff.adsoca.com
 aff.atp.vn
 aff.bstatic.com
 aff.mclick.mobi
@@ -6899,6 +6900,7 @@ eehuzaih.com
 eelfpsgnicy.com
 ef-dongfeng.tanx.com
 ef.alcmpn.com
+efdldoqzzm.com
 effacedefend.com
 effectivecpmcontent.com
 effectivecpmgate.com
@@ -8840,6 +8842,7 @@ intentiq.com
 interactive.brand.zing.vn
 interactive.tinnhanhchungkhoan.vn
 intercom-assets.wootric.com
+interdependentvaluable.com
 interesttingg.com
 intergi.com
 intern.connectad.io
@@ -9995,6 +9998,3 @@ manage.epom.com
 manage.galaxiemedia.fr
 manage.juicyads.com
 mandateowl.com
-manpowerspiritualunrented.com
-mantis.autoads.asia
-map.admarvel.com
