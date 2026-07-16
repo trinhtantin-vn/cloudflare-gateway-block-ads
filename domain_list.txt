@@ -480,6 +480,7 @@ ad.br.doubleclick.net
 ad.caprofitx.adtdp.com
 ad.centrum.cz
 ad.cgi.cz
+ad.cj.sina.cn
 ad.cl.doubleclick.net
 ad.cn.doubleclick.net
 ad.cooks.com
@@ -507,6 +508,7 @@ ad.grafika.cz
 ad.gt
 ad.happynest.vn
 ad.hbv.de
+ad.hunyuan.tencent.com
 ad.huvle.com
 ad.hyena.cz
 ad.icheck.com.vn
@@ -818,6 +820,7 @@ adimages.carsoup.com
 adimages.go.com
 adimages.homestore.com
 adimg.cbsi.com
+adimg.mobile.sina.cn
 adimg.net
 adimg.rekmob.com
 adimg.uimserv.net
@@ -1457,6 +1460,7 @@ ads.shopstyle.com
 ads.sibernetworks.com
 ads.sift.co.uk
 ads.simpli.fi
+ads.sina.com
 ads.smaato.com
 ads.smartclick.com
 ads.smrtb.com
@@ -2224,6 +2228,7 @@ agqoshfujku.com
 agt.distinctrobin.com
 agtcmuohbt.in
 ah-ha.com
+ah.eyesnamda.cfd
 ahalogy.com
 ahdcrajmzbtvj.com
 aheadday.com
@@ -2399,6 +2404,7 @@ aliascagesboxer.com
 aliexpress-summer.cityads.com
 alikeaddition.com
 alipromo.com
+alitui.weibo.com
 alivc-aio-sgp.ap-southeast-1.log.aliyuncs.com
 all.dspmulti.com
 alladvantage.com
@@ -2727,6 +2733,7 @@ andbeyond.media
 android-sdk.aatkit.com
 android-stat.acestream.net
 android.bugly.qq.com
+android.bugly.tencent.com
 android.heyzap.com
 android.unid.go.com
 androidads20.adcolony.com
@@ -3094,6 +3101,7 @@ api.unibots.in
 api.uniconsent.com
 api.unthem.com
 api.usebutton.com
+api.uve.weibo.com
 api.video.duapps.com
 api.vungle.com
 api.w.inmobi.cn
@@ -3872,9 +3880,11 @@ beacon.rubiconproject.com
 beacon.s-onetag.com
 beacon.scorecardresearch.com
 beacon.shazam.com
+beacon.sina.com.cn
 beacon.sojern.com
 beacon.statful.com
 beacon.taboola.com
+beacon.tencent.com
 beacon.tingyun.com
 beacon.tru.am
 beacon.walmart.ca
@@ -4041,6 +4051,7 @@ bitads.net
 bitcoinsports.org
 bitmedia.io
 bitmedianetwork.com
+biz.weibo.com
 bizible.com
 bizographics.com
 bizrate.com
@@ -4133,7 +4144,10 @@ books-analytics-events.apple.com
 boom.ro
 boomads.com
 boost-next.co.jp
+boot.biz.weibo.com
 boot.pbstck.com
+bootpreload.uve.weibo.com
+bootrealtime.uve.weibo.com
 bordeaux.futurecdn.net
 boredcrown.com
 bos.ads.nexage.com
@@ -4177,6 +4191,7 @@ branded.adspeed.net
 brandmetrics.com
 brandreachsys.com
 brandsafe.adlooxtracking.com
+brandvideo.biz.weibo.com
 branovate.com
 bravobusboy.com
 brazenwholly.com
@@ -5753,6 +5768,7 @@ counter.ntdvn.com
 counter.pixplug.in
 counter.rambler.ru
 counter.search.bg
+counter.sina.com.cn
 counter.snackly.co
 counter.yadro.ru
 counter11.stat.ovh
@@ -6223,6 +6239,7 @@ data4.aniview.com.edgekey.net
 dataapi.adop.cc
 databerries.com
 datacapture.serving-sys.com
+datacollection.uve.weibo.com
 datacollector-dra.dt.hicloud.com
 datafeed.a8.net
 datafront.co
@@ -7450,6 +7467,7 @@ flygame.io
 flyingsquirellsmooch.com
 fmlabsonline.cpm.ak-is2.net
 fnbauniukvi.com
+fnzocmpkp.com
 fo-api.omnitagjs.com
 fo-dyn.omnitagjs.com
 fo-ssp.omnitagjs.com
@@ -7485,6 +7503,7 @@ fota5p.adups.cn
 fota5p.adups.com
 fota5s.adups.cn
 fota5s.adups.com
+fota5t.adups.cn
 fota5t.adups.com
 fotareliance.adups.com
 fouanalytics.com
@@ -7622,6 +7641,7 @@ galactify.unrulymedia.com
 galaksion.com
 galaxiemedia.fr
 galaxien.com
+galileotelemetry.tencent.com
 gallery.adtima.vn
 gallery.gumgum.com
 gallery.smartadserver.com
@@ -7875,6 +7895,7 @@ go.mobpartner.mobi
 go.mobytrks.com
 go.mouseflow.com
 go.openx.com
+go.playlg.com
 go.polyad.net
 go.rmishe.com
 go.shareaholic.com
@@ -8016,6 +8037,10 @@ guardedschool.com
 guardianapps.co.uk
 guc-api.sonic-us.supersonicads.com
 guchihyfa.pro
+guid.tpns.hk.tencent.com
+guid.tpns.sgp.tencent.com
+guid.tpns.sh.tencent.com
+guid.tpns.tencent.com
 guidecent.com
 guidepaparazzisurface.com
 guihua-china.com
@@ -8299,6 +8324,11 @@ hub.onmarketer.net
 hub.simpli.fi
 hubvisor.io
 hud.crazyegg.com
+hue2n.com
+hue4c.com
+hueads.com
+hueadsortb.com
+hueadsxml.com
 hugazdazst.com
 hugfromoctopus.com
 hulu.pixel.invitemedia.com
@@ -8619,6 +8649,7 @@ imhd.io
 imimobile.com
 immediatemedia.amp.permutive.com
 immensehoney.com
+immizdgmacjvi.space
 immoxdzdke.com
 imobile.socdm.com
 imonomy.com
@@ -8889,6 +8920,7 @@ ionigravida.com
 ioredi.com
 ios-pclog.3u.com
 ios.bugly.qq.com
+ios.bugly.tencent.com
 ios.pclog.3u.com
 ios.unid.go.com
 iosads22.adcolony.com
@@ -9090,6 +9122,7 @@ jqyryzrbuqpfp.space
 jr.ads.zalo.me
 jr.ads.zaloapp.com
 jr.stg.ads.zalo.me
+jrmkpvntxat.com
 jrs.a4.tl
 js-ad.a.yximgs.com
 js-agent.newrelic.com
@@ -9205,6 +9238,7 @@ k8s.dable.io
 k8s2.testcentre.vn
 ka.display.ad.daum.net
 kabbmedia.com
+kadmimage.biz.weibo.com
 kaffnet.com
 kaisauwoure.net
 kakaostory.ad.kakao.com
@@ -9690,6 +9724,7 @@ log.lichviet.org
 log.logrocket.com
 log.logrocket.io
 log.mediation.onebooster.me
+log.mix.sina.com.cn
 log.mmstat.com
 log.mofa.go.kr
 log.mp3.zing.vn
@@ -9713,6 +9748,7 @@ log.quora.com
 log.saigondautu.com.vn
 log.sdk.zadn.vn
 log.sggp.org.vn
+log.sina.cn
 log.smoney.vn
 log.snapdeal.com
 log.snow.me
@@ -9731,6 +9767,9 @@ log.tieudungthoinay.vn
 log.tinnhanhchungkhoan.vn
 log.tinxe.vn
 log.tpns.gz2.tencent.com
+log.tpns.hk.tencent.com
+log.tpns.sgp.tencent.com
+log.tpns.sh.tencent.com
 log.tpns.tencent.com
 log.tutuapp.com
 log.tv.zing.vn
@@ -9762,6 +9801,7 @@ log16-normal-us-ttp.capcutapi.us
 log16-normal.capcutapi.com
 log2.adsplay.net
 log2.cmpassport.com
+log2.sina.cn
 log2.spotify.com
 log3.adsplay.net
 log32-normal-sg.capcutapi.com
@@ -9923,6 +9963,9 @@ m.doubleclick.net
 m.doublemax.net
 m.eskimi.com
 m.faktor.io
+m.hue11.com
+m.hue14.com
+m.hue2b.com
 m.infolinks.com
 m.lkqd.net
 m.loopme.me
@@ -9955,46 +9998,3 @@ mad.xapads.com
 madadsmedia.com
 madclient.uimserv.net
 made2you.com
-madnet.yadro.ru
-mads.amazon-adsystem.com
-mads.amazon.com
-mads.dailymail.co.uk
-madsecz.com
-madserve.aarth.net
-madserve.xapads.com
-madslimz.com
-madspmz.com
-madurird.com
-madvertise.de
-mafrarc3e9h.com
-magento.marketolive.com
-magetrigla.com
-magnetic.com
-magnite.com
-magsrv.com
-mahimeta.com
-mahoganyproductthat.com
-maidthereuponblacken.com
-mail-ads.google.com
-main.exdynsrv.com
-main.exoclick.com
-main.exosrv.com
-main.optvx.com
-main.pubexchange.com
-main.realsrv.com
-main.trafficfactory.biz
-mainadv.com
-mainexclkdir.com
-maio.jp
-makafdsugxco.com
-malatiswirled.com
-malluktig.in
-maltunfaithfulpredominant.com
-malware-scan.com
-manage.adtima.vn
-manage.aniview.com
-manage.com
-manage.epom.com
-manage.galaxiemedia.fr
-manage.juicyads.com
-mandateowl.com
