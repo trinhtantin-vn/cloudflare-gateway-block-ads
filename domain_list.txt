@@ -1937,6 +1937,7 @@ advbanners.global.ssl.fastly.net
 adventori.com
 adventory.com
 adventurefeeds.xml-eu.ak-is2.net
+adventurefeeds.xml-v4.ak-is2.net
 adventurefeeds.xml-v6.ak-is2.net
 adventurefeeds.xml.ak-is2.net
 adver.24h.com.vn
@@ -7652,9 +7653,11 @@ gallery.gumgum.com
 gallery.smartadserver.com
 galopelikeantelope.com
 game-static.hotngay.vn
+game.eve.mdt.qq.com
 game.flygame.io
 game.hotngay.vn
 game.ssl2.duapps.com
+game.str.mdt.qq.com
 gameads-admin.applifier.com
 gameads.io
 gameanalytics.com
@@ -8770,6 +8773,7 @@ info.ad.daum.net
 info.adspruce.com
 info.bizible.com
 info.criteo.com
+info.gotrackier.com
 info.leanplum.com
 info.lgsmartad.com
 info.marketo.com
@@ -9023,6 +9027,7 @@ ivykiosk.com
 iwad.cachefly.net
 iwanttodeliver.com
 ixsquare.indexexchange.com
+iy.agynarysyun.cyou
 iyfbodn.com
 izooto.com
 j.6sc.co
@@ -9120,6 +9125,7 @@ jp.marketo.com
 jp.marketolive.com
 jp1-bid-ga.adsrvr.org
 jp1-bid.adsrvr.org
+jpcrtqakzrlqy.space
 jprtb.c.appier.net
 jpush.cn
 jpush.io
@@ -9992,9 +9998,3 @@ m2.ai
 m2.alcmpn.com
 m2.impactserving.com
 m2d.m2.ai
-m32.media
-m4n.nl
-m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
-ma.ants.vn
-ma.tgdd.vn
-mab.chartbeat.com
