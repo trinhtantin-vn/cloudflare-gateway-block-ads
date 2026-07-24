@@ -5459,7 +5459,6 @@ cm2.adform.net
 cm3.adform.net
 cma.kargo.com
 cma.production.us-east-1.kops.kargo.com
-cmap.alibaba.com
 cmdpeufwwou.com
 cml.sad.ukrd.com
 cmp-dev.advertising.com
@@ -9998,3 +9997,4 @@ m2.ai
 m2.alcmpn.com
 m2.impactserving.com
 m2d.m2.ai
+m32.media
