@@ -8465,6 +8465,7 @@ ibillboard.com
 ibv.lijit.com
 ibv.stat-rock.com
 ic.tynt.com
+iccku.com
 ice.360yield.com
 ichachoakiglop.com
 iclickcdn.com
@@ -8848,6 +8849,7 @@ insights.marketolive.com
 insights.rtgio.co
 insitez.blob.core.windows.net
 inskinmedia.com
+insolubledoomedbenignity.com
 inspectlet.com
 inspector-collector.m.naver.com
 inspirationstarednope.com
@@ -9996,5 +9998,3 @@ m.quantserve.com
 m.servebom.com
 m.servedby-buysellads.com
 m.trb.com
-m.yap.yahoo.com
-m.zedcdn.me
