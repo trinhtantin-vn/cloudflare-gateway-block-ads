@@ -5256,6 +5256,7 @@ clevernt.com
 cleverpush.com
 clevertap-prod.com
 clevertap.com
+cleverwebserver.com
 clg.doublemax.net
 cli.ambient-platform.com
 cli.linksynergy.com
@@ -7391,6 +7392,7 @@ fb.adsrvr.org
 fb.onthe.io
 fbapi.sd.duapps.com
 fbcdn2.com
+fbgbskzvbvzokr.com
 fbuser.ovp.vn
 fcanr.tracking.miui.com
 fcd.autoads.asia
@@ -7798,6 +7800,7 @@ ghkbid.adview.com
 ghochv3eng.trafficmanager.net
 ght.kernh41.com
 gi-js.genieessp.com
+gi.bagwashhabeas.qpon
 giddycoat.com
 gif.brealtime.com
 gif.simpleanalytics.io
@@ -7835,6 +7838,7 @@ glance.l.inmobicdn.net
 glassesoftruth.com
 glassmilheart.com
 glazingretentionupcoming.com
+gldmel.com
 gleetresis.com
 glersakr.com
 glimtors.net
@@ -8389,6 +8393,7 @@ hyperpromote.com
 hypertracker.com
 hypertusk.com
 hypestat.com
+hypnagogicsoundsuddenly.com
 hz-telemetry.adobe.io
 hz.mmstat.com
 i-adq.mediation.unity3d.com
@@ -9993,8 +9998,3 @@ m.anycast.adnxs.com
 m.atm.youku.com
 m.bingads.microsoft.com
 m.cityads.com
-m.clevernet.vn
-m.data.mob.com
-m.dlx.addthis.com
-m.doubleclick.net
-m.doublemax.net
