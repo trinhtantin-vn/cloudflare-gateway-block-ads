@@ -1560,6 +1560,7 @@ ads.youtube.com
 ads.zalo.me
 ads.zaloapp.com
 ads.zascdn.me
+ads.zorvec.name
 ads.zorvec.top
 ads.zunia.vn
 ads04.tapsense.com
@@ -9968,6 +9969,7 @@ luminati.io
 lumupu.xyz
 lunarads.com
 luxope.com
+lvesfrucnt.com
 lwgadm.com
 lwonclbench.com
 lwxoothcoq.com
@@ -9996,5 +9998,3 @@ m.adup-tech.com
 m.agkn.com
 m.anycast.adnxs.com
 m.atm.youku.com
-m.bingads.microsoft.com
-m.cityads.com
