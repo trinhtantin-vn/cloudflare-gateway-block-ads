@@ -6944,6 +6944,7 @@ efdldoqzzm.com
 effacedefend.com
 effectivecpmcontent.com
 effectivecpmgate.com
+effectivecpmnetwork.com
 effectivecreativeformat.com
 effectivedisplaycontent.com
 effectivedisplayformat.com
@@ -7587,6 +7588,7 @@ front.adpia.vn
 front.optimonk.com
 frs2c.com
 frtn.socdm.com
+fruhujma.in
 fs-client-logger.herokuapp.com
 fs.moatads.com
 fs.specificmedia.com
@@ -9996,5 +9998,3 @@ m-adnet.hiaiabc.com
 m-ads.mediaforge.com
 m-mpl.hiaiabc.com
 m.addthis.com
-m.addthisedge.com
-m.adnxs.com
