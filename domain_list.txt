@@ -2953,7 +2953,6 @@ api.cmp.inmobi.com
 api.collect.data.intl.miui.com
 api.content.ad
 api.country.is
-api.crashlytics.com
 api.criteo.com
 api.cxense.com
 api.d.xiaomi.com
@@ -4098,6 +4097,7 @@ blogtoplist.se
 blogtopsites.com
 blu.mobileads.msn.com
 bluadz.com
+blue-ribbonmacadamizeprovide.com
 blue.thehill.com
 blueadss.com
 bluecava.com
@@ -5852,8 +5852,6 @@ crajeon.com
 crakmedia.com
 craktraffic.com
 crashapi.growingio.com
-crashlytics.com
-crashlyticsreports-pa.googleapis.com
 craveandlamb.com
 cravekeyboard.com
 crawlability.com
@@ -6285,6 +6283,7 @@ dbmaster.aatkit.com
 dbr9gtaf8.com
 dbs.pushwoosh.com
 dbtarget.com
+dbxexsnxxzwwo.com
 dc-storm.com
 dc.ads.linkedin.com
 dc.banggood.com
@@ -6851,7 +6850,6 @@ e.apsalar.com
 e.cn.miaozhen.com
 e.connectad.io
 e.cquotient.com
-e.crashlytics.com
 e.de.inmobi.com
 e.deployads.com
 e.dlx.addthis.com
@@ -7456,9 +7454,6 @@ findcommerce.com
 findingexchange.com
 fineclicks.com
 fingerprint.admicro.vn
-firebase-settings.crashlytics.com
-firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
 fireworkswad.com
 firsthive.com
 firstimpression.io
@@ -9998,3 +9993,8 @@ m-adnet.hiaiabc.com
 m-ads.mediaforge.com
 m-mpl.hiaiabc.com
 m.addthis.com
+m.addthisedge.com
+m.adnxs.com
+m.ads.zalo.me
+m.adserver.yahoo.com
+m.adup-tech.com
