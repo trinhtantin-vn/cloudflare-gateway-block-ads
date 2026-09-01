@@ -530,6 +530,7 @@ ad.leadboltads.net
 ad.leadboltapps.net
 ad.leap.app
 ad.letmeads.com
+ad.lgappstv.com
 ad.lgsmartad.com
 ad.linksynergy.com
 ad.liveinternet.ru
@@ -548,6 +549,7 @@ ad.musicmatch.com
 ad.nachtagenten.de
 ad.native-ad.net
 ad.netmedia.hu
+ad.nettvservices.com
 ad.nl.doubleclick.net
 ad.nttnavi.co.jp
 ad.nvdvr.cn
@@ -2800,6 +2802,7 @@ aorta.clickagy.com
 aos.gop1.co
 ap-central.load.exelator.com
 ap-northeast.load.exelator.com
+ap-southeast-1.log.aliyuncs.com
 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 ap-southeast.load.exelator.com
 ap.adadvisor.net
@@ -3818,6 +3821,7 @@ barapolaran.shop
 bareleggedhelmhim.com
 baresi.xyz
 barometercorrodingunease.com
+bartererfaxtingling.com
 base-cdn.admarvel.com
 basepush.com
 baskettexture.com
@@ -5174,6 +5178,7 @@ chatbox-widget.botbanhang.vn
 checker.cityads.com
 checkm8.com
 checkstat.nl
+cheeseoverlordsaline.com
 cheetieaha.com
 cheqzone.com
 chestgoingpunch.com
@@ -7086,6 +7091,7 @@ eskimi.com
 esp.rtbhouse.com
 espionagegardenerthicket.com
 essbritanidim.club
+essencereferencetummy.com
 essencom.yadro.ru
 estat.com
 estimator-staging.leanplum.com
@@ -7260,6 +7266,7 @@ exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
 exapi-us-east.rubiconproject.com
 exapi-us-west.rubiconproject.com
+excavatenearbywand.com
 exch.exponential.com
 exch.quantserve.com
 exchange-eu-west.powerlinks.com
@@ -7359,6 +7366,7 @@ facebookid.younetmedia.com
 facebookinbox-omni-onapp.haravan.com
 facesnotebook.com
 factsheetgrievancekeg.com
+facultymakingsubgroup.com
 fadsims.com
 fadsimz.com
 fadsipz.com
@@ -9990,11 +9998,3 @@ m-a.ants.vn
 m-adash.m.taobao.com
 m-adnet.dutils.com
 m-adnet.hiaiabc.com
-m-ads.mediaforge.com
-m-mpl.hiaiabc.com
-m.addthis.com
-m.addthisedge.com
-m.adnxs.com
-m.ads.zalo.me
-m.adserver.yahoo.com
-m.adup-tech.com
