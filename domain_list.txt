@@ -139,6 +139,7 @@
 79xmz3lmss.com
 7ca78m3csgbrid7ge.com
 864feb57ruary.com
+8m9.8xb3njrjigxhge9q9mp2.cfd
 940functions.net
 970vantage.net
 999.money
@@ -184,7 +185,6 @@ a.c.appier.net
 a.cdp.asia
 a.chartboost.com
 a.clicktripz.com
-a.connatix.com
 a.ctnsnet.com
 a.deepdive.exponential.com
 a.dpmsrv.com
@@ -310,6 +310,7 @@ abc-ads.com
 abd.media.net
 abertistelecom.prerelease.youbora.com
 abh.genieesspv.jp
+ablelaunchshorts.com
 abmkupxixavk.in
 aboardlevel.com
 above.com
@@ -1051,6 +1052,7 @@ adrta.com
 ads-a.juicyads.com
 ads-adaptv.vidible.tv
 ads-admin.hubs.vn
+ads-api-o.api.leiniao.com
 ads-api.ft.com
 ads-api.playfun.vn
 ads-api.tiktok.com
@@ -2847,7 +2849,6 @@ apex-ad.com
 apex.adpushup.com
 apex.go.sonobi.com
 apfxpuatkla.com
-api-2-0.spot.im
 api-ad-adapter.wps.com
 api-ad-data.kajicam.com
 api-ad.kajicam.com
@@ -3454,6 +3455,7 @@ assets.bounceexchange.com
 assets.bttrack.com
 assets.buysellads.com
 assets.chartboost.com
+assets.connatix.com
 assets.corpui.triplelift.com
 assets.deployads.com
 assets.districtm.ca
@@ -3989,6 +3991,7 @@ bh.contextweb.com
 bharalhallahs.com
 bhcumsc.com
 bhjkpnfsgejvo.com
+bi-events-collector.spot.im
 bi.vhost.vn
 bi.yeshen.com
 bicolourprepossessstrong.com
@@ -4086,6 +4089,7 @@ bk.r-ad.ne.jp
 bk8sports.com
 bkrtx.com
 bl-bm.smadex.com
+bl.rajeevrapido.cfd
 blackbrake.com
 bladelikefreightwhat.com
 blahlivedsnowdrop.com
@@ -4499,6 +4503,7 @@ campaigns.clevertap.com
 campaigns.conversantmedia.com
 campaigns.williamhill.com
 campfirecroutondecorator.com
+camph.org
 cams.gratis
 can-get-so.me
 canekilttantrum.com
@@ -4508,7 +4513,6 @@ canvas-encoder.showheroes.com
 cap-ad.doublemax.net
 capaciousdrewreligion.com
 capi.bidtellect.com
-capi.connatix.com
 captainbicycle.com
 captify.co.uk
 capture.condenastdigital.com
@@ -4517,6 +4521,7 @@ carambo.la
 carbon-cdn.ccgateway.net
 carbonads.com
 carbonads.net
+cardiaccrystaleternity.com
 careerconnect.marketo.com
 careers.adpushup.com
 careers.hotjar.com
@@ -4589,7 +4594,6 @@ ccxp.opencoccoc.com
 cd-ads.com
 cd.adition.com
 cd.cococx.com
-cd.connatix.com
 cd.ladsp.com
 cd.ladsp.jp
 cd.navdmp.com
@@ -4764,7 +4768,6 @@ cdn.clicktale.net
 cdn.comedia.coccoc.com
 cdn.concert.io
 cdn.confiant-integrations.net
-cdn.connatix.com
 cdn.connectad.io
 cdn.contentabc.com
 cdn.contentspread.net
@@ -4969,6 +4972,7 @@ cdn.stickyadstv.com
 cdn.surfcountor.com
 cdn.switchadhub.com
 cdn.taboola.com
+cdn.taboola.com.cn
 cdn.tagcommander.com
 cdn.tanx.com
 cdn.taplytics.com
@@ -5091,7 +5095,6 @@ cdnp.ad-stir.com
 cdnpi.nxtck.com
 cdnpixel.simpli.fi
 cdnrgc.trafficfactory.biz
-cdns.connatix.com
 cdnssl.clicktale.net
 cdnstatic.daleriki.com
 cdnstoremedia.com
@@ -5107,7 +5110,6 @@ cdp.cococx.com
 cdp.customer.io
 cdptracker.hocmai.com.vn
 cdrvrs.com
-cds.connatix.com
 cds.taboola.com
 cdslog.contextweb.com
 ce.galaxiemedia.fr
@@ -5675,7 +5677,6 @@ confluence.smaato.net
 congnb.analytics.saas-vn.network
 conjunctionrepresentativepowerless.com
 connatix-supply-partners.tremorhub.com
-connatix.com
 connect-metrics-collector.s-onetag.com
 connect.idocdn.com
 connect.tapjoy.com
@@ -5728,6 +5729,7 @@ contextweb-match.dotomi.com
 contextweb.com
 contextweb.pixel.invitemedia.com
 contineljs.com
+contraltoflubmedical.com
 control.adap.tv
 control.connectad.io
 control.kochava.com
@@ -6014,6 +6016,7 @@ cts.keyword.ad.daum.net
 cts.tradepub.com
 cts.w55c.net
 ctubhxbaew.com
+ctv-ads.api.leiniao.com
 ctv.adelement.com
 ctx.adsafety.net
 cubics.com
@@ -7172,6 +7175,7 @@ eu.y.atwola.com
 eu1-spiky.clevertap-prod.com
 eu1.clevertap-prod.com
 eu1.wzrkt.com
+euads-o.api.leiniao.com
 euasync01.admantx.com
 euc1-turn.fpjs.io
 euclid.kuula.co
@@ -7463,6 +7467,7 @@ fieldevents.marketo.com
 fiftyt.com
 fiksu.com
 filament-stats.herokuapp.com
+file-hw-ads-o.api.leiniao.com
 file-subiz.com
 file.admicro.vn
 file.askingpoint.com
@@ -7851,7 +7856,6 @@ giraff.io
 git.blueseed.tv
 git.younetmedia.com
 gitlab.ad-stir.com
-gitlab.connatix.com
 giuwikxlkna.com
 gizmo-s.serving-sys.com
 gizmo.serving-sys.com
@@ -8646,6 +8650,7 @@ images.showcasethat.com
 images.specificclick.net
 images.startappservice.com
 images.taboola.com
+images.taboola.com.cn
 images.taxel.jp
 images1.taboola.com
 images2.taboola.com
@@ -8675,7 +8680,6 @@ img.applovin.com
 img.atdmt.com
 img.beaverads.com
 img.cdns.turn.com
-img.connatix.com
 img.customers.fptad.com
 img.eclick.vn
 img.en25.com
@@ -8891,6 +8895,7 @@ inpagepush.com
 inquisitiveinvention.com
 inread-experience.teads.tv
 inrhyhorntor.com
+ins.connatix.com
 inside-graph.com
 inside.adpushup.com
 inside.outbrain.com
@@ -9307,6 +9312,7 @@ justpremium.com
 justrelevant.com
 justuno.com
 justwebads.com
+jvntctypey.com
 jwpevent.1rx.io
 jwpltx.com
 jwuoxhjuq.com
@@ -9434,7 +9440,6 @@ l.a.eclick.vn
 l.aaxads.com
 l.betrad.com
 l.clicktale.net
-l.connatix.com
 l.contentsquare.net
 l.d.eclick.vn
 l.doubleclick.net
@@ -9528,6 +9533,7 @@ lciapi.ninthdecimal.com
 lcs.loginfra.com
 ldap.a4.tl
 ldjsypolwypxy.space
+lduohrmhrme.com
 ldynamicspublicapi.leadforensics.com
 leadboltads.net
 leadclick.com
@@ -9621,6 +9627,7 @@ linktarget.com
 lio.aiservice.vn
 liquidad.narrowcastmedia.com
 lispaircraftcraziness.com
+lit.connatix.com
 lite.automatad.com
 literalcorpulent.com
 litix.io
@@ -9991,10 +9998,3 @@ lp.novanet.vn
 lp.outbrain.com
 lp4.io
 lptag.liveperson.net
-lpuodgmca.com
-lr-in-prod.com
-lr-in.com
-lr.us-east-1.bid.bidr.io
-ls.srvcs.tumblr.com
-lsosad.com
-lt.alcmpn.com
