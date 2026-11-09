@@ -307,6 +307,7 @@ ab1n.net
 aba.gumgum.com
 abacho.net
 abc-ads.com
+abc3-log.tv360.vn
 abd.media.net
 abertistelecom.prerelease.youbora.com
 abh.genieesspv.jp
@@ -1253,6 +1254,7 @@ ads.fortunecity.com
 ads.fotosidan.se
 ads.fpt.vn
 ads.fptplay.net.vn
+ads.funmora.com
 ads.g.adxadserv.com
 ads.gamespyid.com
 ads.gamigo.de
@@ -2071,6 +2073,7 @@ adx-strategy-api.hookspf.com
 adx-tc.adform.net
 adx-th.ads.heytapmobile.com
 adx-tk.mtgglobals.com
+adx-track.bluexad.ai
 adx-tw.ads.heytapmobile.com
 adx-vg-req.mosspf.cn
 adx-vg-req.mosspf.com
@@ -2611,12 +2614,15 @@ analytics.bitrix.info
 analytics.bkav.com
 analytics.bkav.com.vn
 analytics.bluekai.com
+analytics.brave.com
 analytics.ccgateway.net
 analytics.cdn.live
 analytics.chartboost.com
+analytics.cherry-ai.com
 analytics.clickdimensions.com
 analytics.cloud.unity3d.com
 analytics.cloudron.io
+analytics.consolewebgear.fr
 analytics.convertlanguage.com
 analytics.data.visenze.com
 analytics.digi8.vn
@@ -2640,8 +2646,10 @@ analytics.google.com
 analytics.govinfo.gov
 analytics.headerbiddr.net
 analytics.hebela.vn
+analytics.hemeratech.vn
 analytics.htmedia.in
 analytics.hub-js.com
+analytics.hvn.works
 analytics.icons8.com
 analytics.iperceptions.com
 analytics.jamstackvietnam.com
@@ -4027,6 +4035,7 @@ bid.contextweb.com
 bid.dr.socdm.com
 bid.g.doubleclick.net
 bid.glass
+bid.novvy.ai
 bid.onetag-sys.com
 bid.openx.net
 bid.pubmatic.com
@@ -4304,6 +4313,7 @@ bs.yandex.ru
 bs1.showheroes.com
 bsch.serving-sys.com
 bshr.ezodn.com
+bspyoibtwrrc.com
 bsxzc.ttrk.io
 bt.cheqzone.com
 bt.teparytympan.qpon
@@ -5422,7 +5432,9 @@ clickz.com
 clicmanager.fr
 client-analytics.braintreegateway.com
 client-events.inner-active.mobi
+client-logs.gaijin.net
 client-side-metrics.as.criteo.net
+client-stats.gaijin.net
 client-uat.addthiscdn.com
 client-upload.cn-shanghai.log.aliyuncs.com
 client.addthiscdn.com
@@ -5593,6 +5605,7 @@ collect.camera360.com
 collect.data.tm-awx.com
 collect.igodigital.com
 collect.iperceptions.com
+collect.netshort.net
 collect.ovp.vn
 collect.trbo.com
 collect.usefathom.com
@@ -5622,6 +5635,8 @@ collector-pxrf8vapwa.pxchk.net
 collector-pxu4k0s8nx.px-cloud.net
 collector-pxuarm9b04.perimeterx.net
 collector.a-mo.net
+collector.bsg.brave.com
+collector.bsg.bravesoftware.com
 collector.cint.com
 collector.effectivemeasure.net
 collector.github.com
@@ -5845,6 +5860,7 @@ countercentral.com
 counting.kmindex.ru
 counts.yieldlab.net
 coupling-media.de
+coverdistilltile.com
 coveredbetting.com
 coxiesthubble.com
 cp.adform.net
@@ -6495,6 +6511,7 @@ detik.serving-sys.com
 detoxifylagoonsnugness.com
 dev-ad-track.aralego.com
 dev-adload.skyadsmart.com
+dev-adtima-static.zdn.vn
 dev-adx.aralego.com
 dev-api.persona.ly
 dev-design.trafficfactory.biz
@@ -7631,6 +7648,7 @@ fra-02.braze.eu
 fractionfridgejudiciary.com
 frame.deployads.com
 framestighterauthorize.com
+fraud.adjoe.zone
 freckledoutsiderundaunted.com
 free.srcdn.xyz
 freebanner.com
@@ -7876,6 +7894,7 @@ ght.kernh41.com
 ghudhopaxoks.in
 gi-js.genieessp.com
 gi.bagwashhabeas.qpon
+giantpanda.xml.ak-is2.net
 giddycoat.com
 gif.brealtime.com
 gif.simpleanalytics.io
@@ -9825,7 +9844,9 @@ log.beecost.com
 log.beecost.vn
 log.btopenworld.com
 log.bumlam.com
+log.cand.vn
 log.clarity.ms
+log.congluan.vn
 log.cookieyes.com
 log.d.eclick.vn
 log.daibieunhandan.vn
@@ -9882,6 +9903,7 @@ log.plo.vn
 log.pv.eclick.vn
 log.pv1.eclick.vn
 log.quora.com
+log.rada.vn
 log.saigondautu.com.vn
 log.sdk.zadn.vn
 log.sggp.org.vn
@@ -9976,25 +9998,3 @@ logpostback.media.net
 logql.yahoo.co.jp
 logriancesenius.com
 logrocket.com
-logrocket.io
-logru.vietnamplus.vn
-logs.1cdn.vn
-logs.ads.vungle.com
-logs.amap.com
-logs.bilsyndication.com
-logs.browser-intake-datadoghq.com
-logs.browser-intake-datadoghq.eu
-logs.convertexperiments.com
-logs.datadoghq.com
-logs.datadoghq.eu
-logs.docnhanh.com.vn
-logs.hotstar.com
-logs.insight.rapid7.com
-logs.ironsrc.mobi
-logs.netflix.com
-logs.roku.com
-logs.sanchoikns.vn
-logs.spilgames.com
-logs.supersonic.com
-logs.thethaovanhoa.vn
-logs.viadata.store
